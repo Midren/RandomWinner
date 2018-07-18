@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>icons/cup.jpg</file>
+        <file>icons/cup.png</file>
+        <file>data/str.txt</file>
+        <file>data/url.txt</file>
+        <file>fonts/gaby.ttf</file>
+        <file>icons/background.png</file>
+        <file>icons/is.png</file>
+        <file>icons/den.png</file>
+    </qresource>
+</RCC>
